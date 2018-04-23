@@ -44,7 +44,7 @@ POOLCONF],
  *    cryptonight_heavy
  */
 
-"currency" : "CURRENCY",
+"currency" : "monero7",
 
 )==="
 		
